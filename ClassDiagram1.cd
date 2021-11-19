@@ -1,0 +1,72 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Comment CommentText="Nhân viên">
+    <Position X="1.269" Y="0.978" Height="0.298" Width="0.796" />
+  </Comment>
+  <Comment CommentText="Khách">
+    <Position X="4.103" Y="4.324" Height="0.298" Width="0.796" />
+  </Comment>
+  <Comment CommentText="Phòng">
+    <Position X="6.065" Y="4.313" Height="0.298" Width="0.796" />
+  </Comment>
+  <Comment CommentText="General">
+    <Position X="7.216" Y="0.897" Height="0.298" Width="0.796" />
+  </Comment>
+  <Class Name="DoAnCuoiKy.Account">
+    <Position X="1.25" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AABAkAAAAAAQACAIAAAAAAAAACIAACAAAAAAgAAAAAg=</HashCode>
+      <FileName>Class\Account.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="DoAnCuoiKy.CheckInOut">
+    <Position X="4.75" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAQAIAAAAAAAAAAAAAAAAAAAAAAAAQAAAA=</HashCode>
+      <FileName>Class\CheckInOut.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="DoAnCuoiKy.Globals">
+    <Position X="7.25" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAgAAAAAAAKAAAEBAAAAABAAAAAAAAAAAAAAAAIAAgA=</HashCode>
+      <FileName>Class\Globals.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="DoAnCuoiKy.Khach">
+    <Position X="4" Y="4.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AIAAQAAAAAAQAAAAgAAAAAAAAAQAAAMABQAAAAAAAAA=</HashCode>
+      <FileName>Class\Khach.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="DoAnCuoiKy.LichLamViec">
+    <Position X="3" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAEEAAAEAAQAAAIAAAAAAAAAAAAAAAABAAAAAAAAAA=</HashCode>
+      <FileName>Class\LichLamViec.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="DoAnCuoiKy.mydb">
+    <Position X="9" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>EAAAAAAAAAAAAAAAAAABAQAAAAAQAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Class\mydb.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="DoAnCuoiKy.Phong">
+    <Position X="6" Y="4.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAQACAAAAAAAAIAAAAAAAAIAQAAgAIAAAA=</HashCode>
+      <FileName>Class\Phong.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="DoAnCuoiKy.Program">
+    <Position X="9" Y="4" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABAAAAAA=</HashCode>
+      <FileName>Class\Program.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
